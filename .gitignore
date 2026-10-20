@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+artifacts/model.json
+artifacts/sample_data.csv
+work/
